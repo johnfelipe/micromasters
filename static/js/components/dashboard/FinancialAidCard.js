@@ -231,8 +231,7 @@ export default class FinancialAidCard extends React.Component {
           <Grid container spacing={2}>
             <Grid item xs={6}>
               <a href="https://na2.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=4a74536d-1629-4709-b8e9-f173a51cf501&env=na2&v=2">
-                  https://na2.docusign.net/Member/
-                  PowerFormSigning.aspx?PowerFormId=4a74536d-1629-4709-b8e9-f173a51cf501&env=na2&v=2
+                  https://na2.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=4a74536d-1629-4709-b8e9-f173a51cf501&env=na2&v=2
               </a>
             </Grid>
             <Grid item xs={6}>
